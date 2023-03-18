@@ -1,0 +1,163 @@
+body {background-color: #95E1FA;
+      position:relative;
+      padding-bottom: 700px;
+    }
+
+header { text-align: center;
+        width: center;
+         text-decoration: underline;
+         box-sizing: border-box;
+         border-color: black;
+         text-shadow: 2px 2px 4px #000000;
+         font-style: italic;
+    }
+
+aside {
+   position:  relative;
+   clear: both;
+ }
+
+.Datos {
+        background-color:#B4B8B9;
+        box-sizing: border-box;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        float: left;
+        width: 20%;
+}
+
+.Fotoperfil {height: calc(100% - 210px);
+             object-fit: contain;
+          }
+.bajoperfil {height: auto;
+             object-fit: contain;}
+
+section {
+  position:  relative;
+}
+
+.Experencia {
+             float: left;
+             width: 80%;
+             display: solid;
+             box-sizing: border-box;
+   }
+
+.Exp {
+   border: 10px inset #FFFFFF;
+   background-color: #95E1FA;}
+
+.Edc {border: 10px inset #FFFFFF;
+background-color: #95E1FA;}
+
+.Hab {border: 10px inset #FFFFFF;
+background-color: #95E1FA;}
+
+footer {
+        text-align: center;
+        clear: both;
+        position: relative;
+        margin-top: -200px;
+        margin-top: auto;
+        border: 10px outset #FFFFFF;
+        background-color: #FFFFFF;
+      }
+
+.boton1 {
+text-decoration:none;
+font-weight: 400;
+font-size: 15px;
+color:#FFFFFF;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:30px;
+padding-right:30px;
+background-color:#818485;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.boton2 {
+text-decoration:none;
+font-weight: 400;
+font-size: 15px;
+color:#FFFFFF;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:30px;
+padding-right:30px;
+background-color:#818485;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.boton3 {
+text-decoration:none;
+font-weight: 400;
+font-size: 15px;
+color:#FFFFFF;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:30px;
+padding-right:30px;
+background-color:#818485;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.boton4 {
+text-decoration:none;
+font-weight: 400;
+font-size: 15px;
+color:#FFFFFF;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:30px;
+padding-right:30px;
+background-color:#818485;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.boton5 {
+text-decoration:none;
+font-weight: 400;
+font-size: 15px;
+color:#FFFFFF;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:30px;
+padding-right:30px;
+background-color:#818485;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.boton6 {
+text-decoration:none;
+font-weight: 400;
+font-size: 15px;
+color:#FFFFFF;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:30px;
+padding-right:30px;
+background-color:#818485;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
